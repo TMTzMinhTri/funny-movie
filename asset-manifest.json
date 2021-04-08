@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/funny-movie/static/css/main.26ab25fe.chunk.css",
+    "main.js": "/funny-movie/static/js/main.16e1f882.chunk.js",
+    "main.js.map": "/funny-movie/static/js/main.16e1f882.chunk.js.map",
+    "runtime-main.js": "/funny-movie/static/js/runtime-main.aab834d0.js",
+    "runtime-main.js.map": "/funny-movie/static/js/runtime-main.aab834d0.js.map",
+    "static/css/2.d5b8b7d2.chunk.css": "/funny-movie/static/css/2.d5b8b7d2.chunk.css",
+    "static/js/2.b540b786.chunk.js": "/funny-movie/static/js/2.b540b786.chunk.js",
+    "static/js/2.b540b786.chunk.js.map": "/funny-movie/static/js/2.b540b786.chunk.js.map",
+    "index.html": "/funny-movie/index.html",
+    "static/css/2.d5b8b7d2.chunk.css.map": "/funny-movie/static/css/2.d5b8b7d2.chunk.css.map",
+    "static/css/main.26ab25fe.chunk.css.map": "/funny-movie/static/css/main.26ab25fe.chunk.css.map",
+    "static/js/2.b540b786.chunk.js.LICENSE.txt": "/funny-movie/static/js/2.b540b786.chunk.js.LICENSE.txt",
+    "static/media/vote.2f36bde3.svg": "/funny-movie/static/media/vote.2f36bde3.svg",
+    "static/media/voted.948a14fe.svg": "/funny-movie/static/media/voted.948a14fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab834d0.js",
+    "static/css/2.d5b8b7d2.chunk.css",
+    "static/js/2.b540b786.chunk.js",
+    "static/css/main.26ab25fe.chunk.css",
+    "static/js/main.16e1f882.chunk.js"
+  ]
+}
